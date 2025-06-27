@@ -25,7 +25,6 @@
 | Entity Framework Core | ORM для работы с БД |
 | PostgreSQL | Хранение данных |
 | AutoMapper | Маппинг DTO ↔ Entities |
-| Serilog (опционально) | Логгирование |
 
 ---
 
@@ -57,7 +56,7 @@
 ### 1. Клонируй репозиторий:
 
 ```bash
-git clone https://github.com/yourname/PriceLoaderWebApp.git
+git clone https://github.com/TaTami375/PriceLoaderWebApp.git
 cd PriceLoaderWebApp
 ```
 
