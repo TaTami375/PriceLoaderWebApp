@@ -1,6 +1,5 @@
 ﻿using PriceLoaderWebApp.Domain.Entities;
 using PriceLoaderWebApp.Domain.Exceptions;
-using PriceLoaderWebApp.Infrastructure.Persistence;
 
 namespace PriceLoaderWebApp.Application.Services
 {

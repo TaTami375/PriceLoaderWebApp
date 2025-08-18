@@ -3,7 +3,6 @@ using PriceLoaderWebApp.Application.Services;
 using PriceLoaderWebApp.Infrastructure.Mail;
 using PriceLoaderWebApp.Infrastructure.Persistence;
 using PriceLoaderWebApp.Infrastructure.Configuration;
-using PriceLoaderWebApp.Infrastructure.Persistence;
 using PriceLoaderWebApp.Mappings;
 using Microsoft.Extensions.Options;
 
